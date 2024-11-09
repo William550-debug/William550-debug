@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @William550-debug
-- 👀 I’m interested in  developing  solutions through python js css and html
-- 🌱 I’m currently learning  python 
+- 👋 Hi, I’m William Macharia
+- 👀 I’m interested in  developing  solutions through python js css and html, c, c++
+- 🌱 I’m currently learning  python and blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
