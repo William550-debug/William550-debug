@@ -35,7 +35,7 @@
 
 | Project                                                                       | Description                             | Tech Stack                     | Status               |
 | ----------------------------------------------------------------------------- | --------------------------------------- | ------------------------------ | -------------------- |
-| [🏠 Kwetu Rental](https://github.com/William550-debug/KwetuRent.git)            | Modern property management system       | Django, React, PostgreSQL      | `Active Development` |
+| [🏠 Kwetu Rental](https://github.com/William550-debug/KwetuRent.git)            | Modern property management system       | Node, React, Mongo      | `Active Development` |
 | [🍔 Food Delivery Collab](https://github.com/MweleCarol/Food-Delivery-App.git)               | Fullstack delivery platform (Team of 4) | Node.js, MongoDB, React Native | `Completed`          |
 | [🔒 Password Manager](https://github.com/WilliamMacharia/password-manager)    | CLI secure vault                        | Python, AES-256                | `Maintained`         |
 | [🌐 React Portfolio](https://github.com/WilliamMacharia/react-portfolio)      | Hacker-themed personal site             | React, TailwindCSS             | `Underway`               |
@@ -62,7 +62,7 @@ print(f"Building: {features} with {tech}")
 * **Professional Email:** [williamnjoroge2019@gmail.com](mailto:williamnjoroge2019@gmail.com)
 * **LinkedIn:** [machariawilliam287@gmail.com](mailto:machariawilliam287@gmail.com)
 * **Twitter:** [@Willy](https://twitter.com/Willy)
-* 
+  
 
 ---
 
@@ -83,14 +83,5 @@ print(f"Building: {features} with {tech}")
 * **Stats:** GitHub Readme Stats, Streak Stats
 
 ---
-
-## 🏆 Final Checklist
-
-* [x] Updated profile README with current projects
-* [x] Kwetu repo has screenshots & docs
-* [x] Pinned repositories organized
-* [x] Collaboration highlights added
-* [x] Automation via GitHub Actions planned
-* [x] Professional contact section added
 
 
