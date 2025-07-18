@@ -62,7 +62,7 @@ print(f"Building: {features} with {tech}")
 * **Professional Email:** [williamnjoroge2019@gmail.com](mailto:williamnjoroge2019@gmail.com)
 * **LinkedIn:** [machariawilliam287@gmail.com](mailto:machariawilliam287@gmail.com)
 * **Twitter:** [@Willy](https://twitter.com/Willy)
-* **Pair Programming:** Fridays 2–5PM EAT on [Zoom](https://calendly.com/yourlink)
+* 
 
 ---
 
