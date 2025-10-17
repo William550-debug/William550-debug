@@ -60,7 +60,7 @@ print(f"Building: {features} with {tech}")
 ## 📫 Let's Collaborate
 
 * **Professional Email:** [williamnjoroge2019@gmail.com](mailto:williamnjoroge2019@gmail.com)
-* **LinkedIn:** [machariawilliam287@gmail.com](mailto:machariawilliam287@gmail.com)
+* **LinkedIn:**(www.linkedin.com/in/william-njoroge-2a8054310)
 * **Twitter:** [@Willy](https://twitter.com/Willy)
   
 
